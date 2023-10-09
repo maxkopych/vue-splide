@@ -60,6 +60,6 @@
     "./css/*": "./dist/css/themes/splide-*.min.css"
   },
   "dependencies": {
-    "@splidejs/splide": "^4.1.3"
+    "@splidejs/splide": "https://github.com/maxkopych/splide"
   }
 }
